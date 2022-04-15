@@ -2,9 +2,7 @@
 
 # ScrumLab
 
-
-ScrumLab to projekt, którego celem jest nauczenie Cię pracy w zespole programistów.  Symuluje on realne zadania
-w projekcie aplikacji webowej. 
+Symulacja pracy w zespole progamistów przy użyciu GIT i TRELLO.
 
 
 ## Opis projektu
